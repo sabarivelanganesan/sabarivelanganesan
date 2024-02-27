@@ -21,6 +21,11 @@
 - 📫 How to reach me **sabarivelangn@gmail.com**
 
 <h1></h1>
+<h1>Github Streak Stats</h1>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sabarivelanganesan&theme=vue&border_radius=8)](https://git.io/streak-stats)
+
+<h1></h1>
 <h1 align="left">❤️ Let's get connected:</h1>
 <p align="left">
 <a href="https://dev.to/sabarivelanganesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sabarivelanganesan" height="30" width="40" /></a>
