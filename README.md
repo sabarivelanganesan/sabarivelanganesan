@@ -1,9 +1,7 @@
 <h3>Hi there ! 👋</h3>
-<p>I’m Sabarivelan, a Full Stack Developer grounded in technical expertise and a drive for digital innovation. I'm looking to bring my strong analytical thinking and agile methodologies to a Junior Software Developer position with a forward-thinking tech company.
+<p>I’m Sabarivelan, a Full Stack Developer grounded in technical expertise and a drive for digital innovation. I'm looking to bring my strong analytical thinking and agile methodologies to a Software Developer position with a forward-thinking tech company.
 
 My distinct advantage lies in the successful deployment of diverse web applications and a knack for optimizing performance. Beyond just coding, I possess an assertive communication style that helps bridge the gap between technical and business domains.
-
-My accomplishments range from creating a responsive professional portfolio and an ASP.NET Core MVC ecommerce platform to slashing code latency by 90% at Zoho Corporation. I've significantly boosted web app performance, improved SEO, and polished cross-team collaboration, all within the agile process.
 
 I'm eager to contribute to a team that values innovation and problem-solving. If you know of opportunities that align with my skills, or have advice that could guide my career path, I would greatly appreciate your insight and introductions.</p>
 
