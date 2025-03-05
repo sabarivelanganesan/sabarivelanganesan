@@ -6,7 +6,7 @@
 <h4>Github Streak Stats</h4>
 
 ##[![GitHub Streak](https://streak-stats.demolab.com?user=sabarivelanganesan&theme=vue&border_radius=8)](https://git.io/streak-stats)
--->
+
 <h1></h1>
 <h4 align="left">❤️ Let's get connected:</h4>
 <p align="left">
@@ -15,3 +15,4 @@
 <a href="https://www.hackerrank.com/sabarivelangn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabarivelangn" height="30" width="40" /></a>
 </p>
 
+-->
