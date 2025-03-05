@@ -3,7 +3,7 @@
 <p>Visit my Website : https://sabarivelan.netlify.app/</p>
 <h4>Github Streak Stats</h4>
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=sabarivelanganesan&theme=vue&border_radius=8)](https://git.io/streak-stats)
+# [![GitHub Streak](https://streak-stats.demolab.com?user=sabarivelanganesan&theme=vue&border_radius=8)](https://git.io/streak-stats)
 
 <h1></h1>
 <h4 align="left">❤️ Let's get connected:</h4>
