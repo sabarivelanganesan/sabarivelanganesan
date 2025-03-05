@@ -1,21 +1,6 @@
 <h3>👋 Hi, I'm Sabari!</h3>
-<h4>DevOps | Cloud Engineer | Data Engineer</h4>
-<p>🚀 Passionate about building scalable cloud solutions, automating DevOps workflows, and engineering robust data pipelines to drive efficiency and innovation.</p>
-
-
-<h4>🏗️ What I Do</h4>
-<p>🔹 Cloud Engineering – Automating infrastructure provisioning, managing Kubernetes clusters, and optimizing cloud deployments.</p>
-<p>🔹 DevOps & CI/CD – Implementing robust CI/CD pipelines, ensuring seamless deployments with Terraform, Docker, and Kubernetes.</p>
-<p>🔹 Data Engineering – Designing scalable data pipelines, working with Apache Spark, and building analytics dashboards.</p>
-<p>🔹 Machine Learning & AI – Exploring predictive analytics, anomaly detection, and AI-driven insights.</p>
-
-<h4>📌 Notable Projects</h4>
-<p>🔹 CO₂ Emission Tracking & Predictive Analytics – Built a data pipeline for real-time CO₂ monitoring and predictive analytics using Azure and Apache Spark.</p>
-<p>🔹 Food Supply Chain Carbon Tracking – Developed a blockchain-based solution for tracking carbon footprints with AWS Kinesis and Redshift.</p>
-<p>🔹 Terraform Open Source Contributions – Maintained Terraform EKS & Lambda repositories to automate Kubernetes and serverless deployments.</p>
-
-<h1></h1>
-
+<h4>Software Engineer | DevOps & Cloud Engineer | Data Engineer</h4>
+<p>Visit my Website : https://sabarivelan.netlify.app/</p>
 <h4>Github Streak Stats</h4>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=sabarivelanganesan&theme=vue&border_radius=8)](https://git.io/streak-stats)
